@@ -6,7 +6,7 @@ Created_Date:6 feb 2020
 """
 
 """
-Class node is used to create a node with specipic value
+Class node is used to create a node with specific value
 (By Default the value is None)
 and its pointer pointing to NULL or None. 
 """
